@@ -3,6 +3,7 @@ body{
 }
 h1{
     font-size: 50px;
+    color: #54616C;
 }
 .fort-clr{
     color: orange;
@@ -17,6 +18,9 @@ section{
 .half-width img{
     width: 100%;
 }
+.extra-style{
+    padding-top: 150px;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(#FC8F49,#FE4B2F);
@@ -29,3 +33,37 @@ section{
     background-repeat: no-repeat;
     margin: 0%;
 }
+.recipies-area{
+   text-align: center;
+}
+.recipies-card{
+    width: 50%;
+    padding: 30px;
+    margin: 15px 20px ;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
+.recipies-card img{
+    width: 100%;
+    border-radius: 20px;
+}
+.followers{
+    margin: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray; 
+}
+.followers-area{
+    padding-left: 10%;
+    margin: 50px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    background-color: black;
+    height: 150px;
+}
+.footer-clr{
+    color: #758797;
+}
+
